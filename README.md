@@ -7,7 +7,7 @@ Software Engineer
 Software engineer with background in construction engineering, project management and operations. I have experience coding in multiple languages, frameworks ranging from React.js to Ruby on Rails, learning new software in a short period of time. I have a proven track record of independently self-teaching a wide range of technical applications. My eagerness to learn has provided me with a wide range of opportunities to tackle a variety of operational business challenges.
 
 * 🌍  I'm based in Denver, Colorado
-* 🚀  I'm currently working on [Only Friends on a Powder Day](http://https://only-friends-on-a-powder-day.onrender.com/)
+* 🚀  I'm currently working on a personal project for fun: [Only Friends on a Powder Day](http://https://only-friends-on-a-powder-day.onrender.com/)
 
 ### Skills
 
